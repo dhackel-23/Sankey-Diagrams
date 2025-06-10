@@ -1,9 +1,0 @@
-id,type,function,sector
-farm1,process,farms,farm1
-farm2,process,farms,farm2
-farm3,process,farms,farm3
-domestic,process,consumers,domestic
-industry,process,consumers,industry
-government,process,consumers,government
-landfill,process,destination,landfill
-compost,process,destination,compost
