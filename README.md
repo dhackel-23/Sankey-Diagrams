@@ -1,7 +1,14 @@
 # Sankey-Diagrams
 
-#All the files are part of the open python packge floweaver created by Rick Lupton. Its open source so anyone can contribute. I explored the idea of hiding certain flows, which would help declutter sankey diagrams. I used 2 main functions in the diagram_optimisation class (credit goes to Rick again) I simply made minor changes to return all the flows that crossed as well as their correspodning crossing area. This is then used in the smart remover test and fruit files. I have 4 csv file. 2 test files (test_flows, test_processes), and 2 synthetic data files with a larger dataset (synthetic_fruit_flows, synthetic_fruit_processes). 
+All files are part of the open-source Python package Floweaver, created by Rick Lupton. Since it's open source, anyone is welcome to contribute.
 
-#If you have any questions feel free to reach out to:
-#diegohackel8@gmail.com 
+In this project, I explored the idea of hiding certain flows to help declutter Sankey diagrams. I used two main functions from the diagram_optimisation class (credit goes to Rick again), making minor modifications to return all crossing flows along with their corresponding crossing areas. These outputs are then used in the smart remover test and fruit files.
+
+There are four CSV files included:
+
+test_flows.csv and test_processes.csv: small test datasets
+synthetic_fruit_flows.csv and synthetic_fruit_processes.csv: larger, synthetic datasets
+
+If you have any questions, feel free to reach out:
+📧 diegohackel8@gmail.com
 
