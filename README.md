@@ -22,15 +22,14 @@ The method is especially useful for large, layered diagrams where overlapping or
 ---
 
 ## 📁 Repository Contents
-├── README.md # Project documentation
-├── Smart_remover_test.ipynb # Flow hiding tests on small datasets
-├── Smart_remover_fruit.ipynb # Full workflow using synthetic fruit dataset
-├── diagram_optimisation.py # Core MILP layout optimiser (extended from Floweaver)
-├── test_flows.csv # Basic test flows
-├── test_processes.csv # Basic test processes
-├── synthetic_fruit_flows.csv # Larger flow dataset
-├── synthetic_fruit_processes.csv # Corresponding process dataset
-
+- README.md # Project documentation
+- Smart_remover_test.ipynb # Flow hiding tests on small datasets
+- Smart_remover_fruit.ipynb # Full workflow using synthetic fruit dataset
+- diagram_optimisation.py # Core MILP layout optimiser (extended from Floweaver)
+- test_flows.csv # Basic test flows
+- test_processes.csv # Basic test processes
+- synthetic_fruit_flows.csv # Larger flow dataset
+- synthetic_fruit_processes.csv # Corresponding process dataset
 
 ---
 
