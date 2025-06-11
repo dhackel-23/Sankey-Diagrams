@@ -7,6 +7,7 @@ In this project, I explored the idea of hiding certain flows to help declutter S
 There are four CSV files included:
 
 test_flows.csv and test_processes.csv: small test datasets
+
 synthetic_fruit_flows.csv and synthetic_fruit_processes.csv: larger, synthetic datasets
 
 If you have any questions, feel free to reach out:
