@@ -67,7 +67,7 @@ Unconditional Stability: No restrictive stability conditions
 Engineering Safety: 1.4 safety factor ensures 139mm minimum tile thickness
 
 
-**Citation
+**Citation**
 If you use this work in academic research or commercial applications, please cite:
 Numerical Modelling of a Spacecraft Heat Shield Tile
 ME20021: Modelling Techniques 2 – Group 99
